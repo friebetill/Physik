@@ -2,7 +2,7 @@
 
 It contains all the ideas and concepts I learn during my physics studies as Anki cards. The cards are all in German.
 
-This deck consists of 33 sub-decks.
+This deck consists of 33 sub-decks.\
 The Anki structure is built up as follows:
 
 0. Grundlagen
@@ -41,9 +41,9 @@ The Anki structure is built up as follows:
 
 Incorporates some parts from shared decks provided on AnkiWeb.
 
-In order to use this deck and to contribute back - please use the CrowdAnki plugin: https://github.com/Stvad/CrowdAnki
+In order to use this deck and to contribute back - please use the CrowdAnki plugin: [Stvad](https://github.com/Stvad/CrowdAnki)
 
-If you are using Anki 2.1 you can also use my fork, because the version of Stvad does not yet work with Anki 2.1.
+If you are using Anki 2.1 you can also use my fork, because the version of Stvad does not yet work with Anki 2.1 : [friebetill](https://github.com/friebetill/CrowdAnki)
 
 
 You're welcome to use and improve this deck!
