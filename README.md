@@ -82,8 +82,6 @@ You can edit the JSON directly (useful for minor fixes) or use Anki itself to ma
 
 In order to use this deck and to contribute back - please use the CrowdAnki plugin: [Stvad](https://github.com/Stvad/CrowdAnki)
 
-If you are using Anki 2.1 you can also use my fork, because the version of Stvad does not yet work with Anki 2.1 : [friebetill](https://github.com/friebetill/CrowdAnki)
-
 ## Conventions
 
 - Formulas are written in LaTex
