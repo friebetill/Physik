@@ -3,7 +3,6 @@
 It contains all the ideas and concepts I learn during my physics studies as Anki cards. The cards are all in German.
 
 ## Topics
-This deck consists of 33 sub-decks.\
 The Anki structure is built up as follows:
 
 <details>
