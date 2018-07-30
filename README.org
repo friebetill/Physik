@@ -1,0 +1,786 @@
+# Physik Anki deck. (CrowdAnki JSON)
+It contains all the ideas and concepts I learn during my physics studies as Anki cards. The cards are all in German.
+I try to keep the cards general so that others can do something with them.
+Probably it will help you more if you take the topics and write your own cards.
+
+## Topics
+The deck is not yet complete and will be revised several times.
+The complete subdecks have a marker ([X]) in the listing.
+The Anki structure is built up as follows:
+
+<details>
+  <summary>0. Grundlagen</summary>
+
+    i. Fehlerrechnung
+    ii. Koryphäen
+    iii. Licht
+    iv. Periodensystem
+    v. Sonnensystem
+</details>
+
+<details>
+  <summary>1. Mechanik</summary>
+
+  <details>
+    <summary>&nbsp;&nbsp;i. Translation</summary>
+
+    * [X] Translation  #5bfc5af6
+    * [X] Masse  #981038c0
+    * [X] Ort  #e5bf6f70
+    * [X] Geschwindigkeit  #6ae490d3
+    * [X] Beschleunigung  #62b84a72
+    * [X] Freier Fall  #ee6fe5d7
+    * [X] Erdbeschleunigung  #f6f00a6a
+    * [X] Kraft  #71cee076
+    * [X] Äquivalenzprinzip  #b1cf0c33
+    * [X] Bewegungsgleichung  #4ef40dab
+    * [ ] Superpositionsprinzip  #eeea3f53
+    * [X] Impuls  #280d0137
+    * [X] Impulserhaltung  #8a31c9d8
+    * [X] Inertialsysteme  #d4105bf7
+    * [X] Kraftstoß  #b7be144e
+    * [X] Newtonsche Axiome  #203009d8
+    * [X] Kinetische Energie  #539ec614
+    * [X] Potentielle Energie  #b7a51a31
+    * [X] Energieerhaltung  #aa71c17b
+    * [X] Energiewandlung  #14c6f39d
+    * [X] Arbeit  #99f5e0b2
+    * [X] Goldene Regel der Mechanik  #d25a2813
+    * [X] Leistung  #0bbdd1c1
+    * [X] Haftreibung  #682e7e54
+    * [X] Gleitreibung  #1c639178
+    * [X] Gleichgewicht  #43043d8b
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;ii. Rotation</summary>
+
+    * [X] Winkelgeschwindigkeit  #92d89756
+    * [X] Winkelbeschleunigung  #f9ce8b75
+    * [X] Gleichmäßig beschleunigte Drehbewegung  #f88c6006
+    * [X] Drehmoment  #120913a3
+    * [X] Vektorprodukt  #725216bb
+    * [X] Rotationsenergie  #c847d35d
+    * [X] Trägheitsmoment  #9ee2b8df
+    * [X] Schwerpunkt  #7fcd4011
+    * [X] Steinerscher Satz  #3667d9a2
+    * [X] Drehimpuls  #62010d6d
+    * [X] Drehimpulserhaltung  #22d0ac01
+    * [X] Zentripetal- und Zentrifugalkraft  #770a5018
+    * [X] Scheinkräfte  #af866811
+    * [X] Corioliskraft  #718d6ec2
+    * [X] Foucaultpendel  #e8c1057b
+    * [X] Kreisel  #3df16119
+    * [X] Präzession  #4821cdda
+    * [X] Nutation  #bae26205
+    * [X] Trägheitstensor  #4863c63d
+    * [X] Stabile und labile Drehachsen  #d8bfdcf0
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;iii. Gravitation</summary>
+
+    * [X] Gravitationsgesetz  #00146b8f
+    * [X] Konservatives Kraftfeld  #a00fa44b
+    * [X] Gradient  #312e26d7
+    * [X] Gezeiten  #416678d8
+    * [X] Fluchtgeschwindigkeit  #31336f55
+    * [X] Planetenbewegung  #31ee704d
+    * [X] Bewegung um Schwerpunkt  #30c30bac
+    * [X] Keplersche Gesetze  #e33e53bc
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;iv. Schwingungen und Wellen</summary>
+
+    * [X] Federpendel  #96aa216b
+    * [X] Fadenpendel  #a521ca75
+    * [X] Harmonischer Oszillator  #3c8d1807
+    * [X] Lösung der Bewegungsgleichung  #a5b1a156
+    * [X] Gekoppelte Schwingungen  #5f4aa203
+    * [X] Schwebungen  #d31f0776
+    * [X] Gedämpfte Schwingungen  #267d3036
+    * [X] Schwingfall  #256663a4
+    * [X] Aperiodischer Grenzfall  #24d8ae8e
+    * [X] Kriechfall  #6c374608
+    * [X] Erzwungene Schwingungen  #43ea7b5e
+    * [X] Resonanz  #c44ef226
+    * [X] Beschreibung mit komplexen Zahlen  #5c6de663
+    * [X] Fourierzerlegung periodischer und aperiodischer Funktionen  #be77e93b
+    * [X] Wellen  #ab48e6d3
+    * [X] Phasengeschwindigkeit  #a5aa6180
+    * [X] Wellengleichung  #ebc91ae5
+    * [X] Polarisation  #71a97380
+    * [X] Interferenz  #dbe2788b
+    * [X] Reflexion  #00f9d9c3
+    * [X] stehende Wellen  #4d9bac70
+    * [X] Interferenz am Doppelspalt  #cd950eaa
+    * [X] Dopplereffekt  #1cfb8030
+    * [X] Machkegel  #4822bd6d
+    * [ ] Moden  #95e3be7b
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;v. Deformierbare Körper</summary>
+
+    * [ ] Elastizität  #4804683d
+    * [ ] Hookesches Gesetz  #1c5ed435
+    * [ ] Elastizitätsmodul  #ea12483a
+    * [ ] Poissonzahl  #776b0999
+    * [ ] Scherung  #76f28cc8
+    * [ ] Schermodul  #8229d27c
+    * [ ] Torsion  #e52b9602
+    * [ ] Verbiegung von Balken  #6ef19f13
+    * [ ] Hydrostatik  #e4b885ed
+    * [ ] Druck  #ffacd27a
+    * [ ] Hydrostatischer Druck  #2824adbc
+    * [ ] Auftrieb  #e42b63c1
+    * [ ] Stabilität beim Schwimmen  #e2db595e
+    * [ ] Oberflächen- und Grenzflächenspannung  #68177baf
+    * [ ] Druck in Ballons  #e467e718
+    * [ ] Oberflächenkraft  #342c6f10
+    * [ ] Meniskus  #3ba3c070
+    * [ ] Kapillarkräfte  #102f59bd
+    * [ ] Strömungen  #420f134d
+    * [ ] Strömungsfeld  #463f9c43
+    * [ ] Fluss  #574e49d3
+    * [ ] Stromdichte  #554b088d
+    * [ ] Kontinuitätsgleichung  #495c5185
+    * [ ] Divergenz  #64381f66
+    * [ ] Gaußscher Satz  #3f26e369
+    * [ ] Viskosität  #7a759156
+    * [ ] Rohrströmung  #d5b4cad5
+    * [ ] Bernoullische Gleichung  #e612dd75
+    * [ ] Kavitation  #2a416a66
+    * [ ] Messung der Strömungsgeschwindigkeit  #1a0c732b
+    * [ ] Tragflächenprofil  #7576dc56
+    * [ ] Laminare und turbulente Strömung  #349bf438
+    * [ ] Reynoldszahl  #e6e7c983
+    * [ ] Strömungswiderstand  #519fb929
+    * [ ] Newtonreibung  #ab4e75df
+    * [ ] Widerstandsbeiwert  #ac1f30e8
+    * [ ] Rotation  #1326a07a
+    * [ ] Stokesscher Satz  #67fac458
+    * [ ] Magnus-Effekt  #866cbb35
+  </details>
+</details>
+
+<details>
+  <summary>2. Thermodynamik</summary>
+
+  <details>
+    <summary>&nbsp;&nbsp;i. Temperatur und Wärme</summary>
+
+    * [ ] Temperatur  #c0a456ef
+    * [ ] Wärmeausdehnung  #031f2343
+    * [ ] Kelvinskala  #47897846
+    * [ ] Gleichung des idealen Gases  #f8d4d91a
+    * [ ] Kinetische Gastheorie  #c44cf4d3
+    * [ ] Innere Energie  #d50d550d
+    * [ ] Wärmemenge  #c5edd525
+    * [ ] Erster Hauptsatz  #eb9087fe
+    * [ ] Spezifische Wärme  #b7ff4ff4
+    * [ ] Atomistische Deutung  #7fb84477
+    * [ ] Freiheitsgrade  #f5dd7eb4
+    * [ ] Gleichverteilungssatz  #7a9a033d
+    * [ ] Abweichungen bei tiefen Temperaturen  #b8499f70
+    * [ ] Wärmeübertragungsmechanismen  #52751d5c
+    * [ ] Wärmeleitung  #65fb28c5
+    * [ ] Wärmestrom  #33bc9cce
+    * [ ] Wärmeleitfähigkeit  #51b63c39
+    * [ ] Wärmeleitungsgleichung  #5cd44d94
+    * [ ] Laplace-Operator  #962914f7
+    * [ ] Konvektion  #115aa317
+    * [ ] Wärmestrahlung  #24c3107b
+    * [ ] Dewar  #1b8ed9cc
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;ii. Aggregatzustände</summary>
+
+    * [ ] Schmelzwärme  #5749ca08
+    * [ ] Verdampfungswärme  #8ffe633c
+    * [ ] Volumenänderung  #955f757f
+    * [ ] Phasendiagramme  #a4c4466d
+    * [ ] kritischer Punkt  #1ab50a70
+    * [ ] Tripelpunkt  #67344ad4
+    * [ ] Dampfdruck  #9f750fb9
+    * [ ] Luftfeuchtigkeit  #be4ae709
+    * [ ] Reale Gase  #edaf6de0
+    * [ ] Joule-Thomson-Effekt  #9f93163a
+    * [ ] Van-der-Waals-Gleichung  #f4d1e586
+    * [ ] Van-der-Waals-Kräfte  #563d71ee
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;iii. Kreisprozesse und Entropie</summary>
+
+    * [ ] Zustandsänderungen des idealen Gases  #b507118d
+    * [ ] Isotherme  #e2b1ba20
+    * [ ] Isochore  #58862ddf
+    * [ ] Isobare  #fcf0a92b
+    * [ ] Adiabate  #a6f92f16
+    * [ ] Carnotprozess  #bb35e9f0
+    * [ ] Wirkungsgrad  #d4dbf825
+    * [ ] Reversible und irreversible Prozesse  #c7e7b77b
+    * [ ] Stirlingprozess  #10552762
+    * [ ] Stirlingmotor und -wärmepumpe  #f5dcf699
+    * [ ] Zweiter Hauptsatz  #9fc73d66
+    * [ ] Entropie  #57634e5e
+    * [ ] Thermodynamische und statistische Definition  #05376dd2
+    * [ ] Entropieänderung bei Temperaturausgleich  #3893d103
+    * [ ] Mischung und Kreisprozessen  #f4fa0547
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;iv. Technische Verfahren</summary>
+
+    * [ ] Erzeugung tiefer Temperaturen  #56371e9d
+    * [ ] Gasverflüssigung  #b01854aa
+    * [ ] Kühlschrank  #6054e98e
+    * [ ] Trockeneisherstellung  #ea0cb8e1
+    * [ ] Vakuumerzeugung  #ed1ac91c
+    * [ ] Drehschieberpumpe  #a000b63c
+    * [ ] Turbomolekularpumpe  #443532f0
+    * [ ] Druckmessung  #a680f8f6
+    * [ ] Piraniröhre  #a74712c2
+    * [ ] Kristallzucht aus der Schmelze und aus der Gasphase  #dada2fff
+    * [ ] Epitaxie  #22acded6
+  </details>
+</details>
+
+<details>
+  <summary>3. Elektrodynamik</summary>
+  <details>
+    <summary>&nbsp;&nbsp;i. Elektrostatik</summary>
+
+    * [X] Ladung  #e8c04b6b
+    * [X] Coulombkraft  #b9d900ae
+    * [X] Elektrisches Feld  #1a6663dd
+    * [X] Feldlinien  #f8941fdb
+    * [X] Monopol  #2fdc8f08
+    * [X] Dipol  #ed2c10f5
+    * [X] Potential  #b55b8393
+    * [X] Spannung  #adc17b33
+    * [X] Äquipotentialflächen  #b9994bbb
+    * [X] Metalle  #c69e871c
+    * [X] Faradaybecher  #a12896d1
+    * [X] Elektrischer Fluss  #79937865
+    * [X] Kondensator  #592b828f
+    * [X] Kapazität  #fa72f8b0
+    * [X] Ladung  #c1f374cf
+    * [X] Energie eines Kondensators  #844ee279
+    * [X] Energiedichte des Elektrischen Felds  #f04cb3ec
+    * [X] Reihen- und Parallelschaltung  #1ad4cb0c
+    * [X] Elementarladung  #f968aec1
+    * [X] Millikanversuch  #c440d914
+    * [ ] Einfeldmethode  #c46542a3
+    * [ ] Zweifeldmethode  #d9d4941a
+    * [X] Influenz  #28713863
+    * [X] Dielektrika  #18e4e1bb
+    * [X] Verschiebungs- und Orientierungspolarisation  #fec7b5bc
+    * [X] Polarisierung  #70028fe8
+    * [X] Dipol  #8a71baac
+    * [X] Situation an Grenzflächen  #7b25a16f
+    * [X] Piezoeffekt  #2bc93771
+    * [ ] Paul-Falle  #c1b0807b
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;ii. Gleichströme </summary>
+
+    * [X] Strom  #997846c0
+    * [X] Elektrischer Widerstand  #82b4717e
+    * [X] Ohmsches Gesetz  #b7314c78
+    * [X] Spezifischer Widerstand  #4f87deab
+    * [X] Elektrische Leistung  #87779def
+    * [X] Kirchhoffsche Gesetze  #56efa43f
+    * [X] Reihen- und Parallelschaltung  #9f605e9e
+    * [X] Strom- und Spannungsmessung  #4f10c200
+    * [X] Potentiometer  #9825bfb5
+    * [X] Brückenschaltung  #97133616
+    * [X] Entladung eines Kondensators  #01fd5882
+    * [X] Mikroskopische Betrachtung der Leitung  #acf7db1b
+    * [X] Leitfähigkeit in Lösungen  #946507bf
+    * [X] Elektrolyse  #c1a74dd6
+    * [X] Brennstoffzelle  #89a4295b
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;iii. Magnetismus</summary>
+
+    * [X] Magnetfeld  #1e4929e9
+    * [X] Permanentmagnet  #5a44b1b6
+    * [X] stromdurchflossene Leiter  #b85283b3
+    * [X] Lorentzkraft  #cbe2a6ef
+    * [X] Drehspulinstrument  #28334bdc
+    * [X] Parallele Leiter  #0a82441e
+    * [X] Biot-Savart-Gesetz  #dc98fd6f
+    * [X] Kreisförmiger Leiter  #0ec844c9
+    * [X] Halleffekt  #536a81dc
+    * [X] Fadenstrahlrohr  #4911a689
+    * [X] Magnetischer Fluss  #70ed3496
+    * [X] Quellenfreiheit  #ba5d2b69
+    * [X] Monopole  #61ce5ce9
+    * [X] Induktion bei bewegtem Leiter und veränderlichem Magnetfeld  #924c7968
+    * [X] Dynamo  #e6abca62
+    * [X] Wirbelströme  #4a923309
+    * [X] Lenzsche Regel  #a0703227
+    * [X] Selbstinduktion  #d8a69826
+    * [X] Induktivität  #bee675b7
+    * [X] Spule  #39e1501f
+    * [X] Reihen- und Parallelschaltung  #132c1764
+    * [X] Energie der Spule  #18258b55
+    * [X] Energiedichte des Magnetfelds  #100813b4
+    * [X] Magnetisches Moment  #2127f84f
+    * [X] Drehmoment  #b9f6080c
+    * [X] Energie und Kraft auf Dipol  #9e10b77a
+    * [ ] Elektromotor  #600fd29e
+    * [X] Magnetisierung  #b834aded
+    * [X] Permeabilität  #f8d40b66
+    * [X] Suszeptibilität  #a7f0127b
+    * [X] Magnetismus von Festkörpern  #5768bcc9
+    * [X] Diamagnetismus  #dc250845
+    * [X] Paramagnetismus  #71fe6d0a
+    * [ ] Ferromagnetismus  #d445ab1c
+    * [ ] Supraleitung  #ca6895b1
+    * [ ] Magnetische Domänen  #4b3416f4
+    * [ ] Hysterese  #df3a68ae
+    * [ ] Magnetooptischer Kerr-Effekt  #9f9c35f0
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;iv. Wechselstrom und Oszilliskop</summary>
+
+    * [X] Wechselspannung  #b43541ce
+    * [X] Braunsche Röhre  #428611e5
+    * [X] Oszilloskop  #a3e7074a
+    * [X] Triggern  #9b100fc9
+    * [X] Funktionsgenerator  #e5170394
+    * [X] Effektivwert  #1d04e2cd
+    * [X] Transformator  #0e8368dc
+    * [X] Trenntransformator  #dd1a3c9b
+    * [X] Tiefpass  #f8d0aadd
+    * [X] Hochpass  #4024b238
+    * [X] Bandpass  #ec5322cb
+    * [X] Bandsperre  #896c0aca
+    * [X] Grenzfrequenz  #886275a0
+    * [X] Bodediagramm  #3d954900
+    * [X] Zeitkonstante  #98be2315
+    * [X] Schwingkreis  #569a69f1
+    * [X] Parallel- und Reihenschwingkreis  #4dee685c
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;v. Elektronische Bauelemente</summary>
+
+    * [ ] Diode  #2dce2143
+    * [ ] Diodenkennlinie  #1ba09f74
+    * [ ] Zenerdiode  #d93bc679
+    * [ ] Halbleiter  #4e1bc993
+    * [ ] Energiebänder  #d0a5db25
+    * [ ] Dotierung  #d00341e5
+    * [ ] Photodetektor  #0b95c393
+    * [ ] Photovoltaik  #81d4b07f
+    * [ ] Leuchtdiode  #b0c68fa3
+    * [ ] Gleichrichterschaltungen  #99a26822
+    * [ ] Glättung  #a4f8bbb3
+    * [ ] Transistor  #2ee25fb2
+    * [ ] Operationsverstärker  #07b39938
+    * [ ] Verstärker  #ffb081c3
+    * [ ] Analogmultiplizierer  #a6cd0f4b
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;vi. Elektromagnetische Wellen</summary>
+
+    * [ ] Maxwellsche Gesetze  #130b94ae
+    * [ ] Verschiebungsstrom  #1cfb79ce
+    * [ ] Wellengleichung  #eed8c625
+    * [ ] Elektromagnetische Wellen  #3416d5d4
+    * [ ] Polarisation und Phase  #8cddabb9
+    * [ ] Dipolantenne  #b51b914e
+    * [ ] Dipolcharakteristik  #105214d1
+    * [ ] Poyntingvektor  #3c3571f1
+    * [ ] Stehende Wellen  #e5c3c54e
+    * [ ] Drahtwellen  #2e28c8c2
+    * [ ] Koaxialleiter  #8a9e609f
+    * [ ] Optimale Antennenlänge  #7436e61c
+    * [ ] Rundfunkempfang  #c552b317
+    * [ ] Amplitudenmodulation  #24339b14
+  </details>
+</details>
+
+<details>
+  <summary>4. Optik</summary>
+  <details>
+    <summary>&nbsp;&nbsp;i. Beugung und Interferenz</summary>
+
+    * [ ] Wellengleichung  #b24011b2
+    * [ ] Ebene Wellen und Kugelwellen  #b63d34a6
+    * [ ] Beugung  #b86ad2e8
+    * [ ] Huygenssches Prinzip  #13c8e224
+    * [ ] Interferenz  #0ef1dc8b
+    * [ ] Zeigerdiagramme  #cd8f6df6
+    * [ ] Doppelspalt  #50087fe1
+    * [ ] Einfachspalt  #38bbab3d
+    * [ ] Lochblende  #c5bf9461
+    * [ ] Unendliches und endliches Gitter  #e5ff7de7
+    * [ ] Kohärenz  #48d985f1
+    * [ ] Michelson-Interferometer  #50fe78bc
+    * [ ] Unschärferelation  #ff9c0a46
+    * [ ] Fresnellinsen  #ad7cb996
+    * [ ] Holographie  #99d31337
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;ii. Reflexion, Brechung, Polarisation</summary>
+
+    * [ ] Reflexion  #b0ff52b9
+    * [ ] Brechung  #19a89d5b
+    * [ ] Brechungsgesetz  #fe28fd8a
+    * [ ] Prisma  #84eb7aca
+    * [ ] Partielle Reflexion  #08ec3943
+    * [ ] Totalreflexion  #4e589a90
+    * [ ] Lichtleiter  #03032561
+    * [ ] Wellenvektor an Grenzflächen  #f4f093c0
+    * [ ] Frustrierte Totalreflexion  #7a240d76
+    * [ ] Polarisation  #45b77f13
+    * [ ] Polarisatoren  #5508cac4
+    * [ ] Brewsterwinkel  #05797160
+    * [ ] Intensitäten bei Reflexion und Brechung  #aa9ae215
+    * [ ] Schichtinterferenzen  #36c252af
+    * [ ] Dispersion  #c700c65c
+    * [ ] Absorption  #f5c364f1
+    * [ ] Polarisationsformen  #9b0cc932
+    * [ ] Optische Aktivität  #9cda9797
+    * [ ] Doppelbrechung  #2cf79a05
+    * [ ] Faradayeffekt  #2ca2a812
+    * [ ] Polarisationsmodulator  #597bf8ce
+    * [ ] Verzögerungsplatte  #fa165ea5
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;iii. Abbildung</summary>
+
+    * [ ] Sammel- und Zerstreuungslinsen  #04c858f9
+    * [ ] Abbildungsgleichung  #1df24982
+    * [ ] Kombination von Linsen  #a3614b53
+    * [ ] Hohl- und Wölbspiegel  #ef09ae3b
+    * [ ] Auge  #7cd2f68f
+    * [ ] Fehlsichtigkeit  #8712cdd8
+    * [ ] Reelles und virtuelles Bild  #be17587f
+    * [ ] Lupe  #9887eb73
+    * [ ] Mikroskop  #201bb660
+    * [ ] Kepler- und Galileifernrohr  #e4fcb3d0
+    * [ ] Auflösungsvermögen  #9ef9136b
+    * [ ] Linsenfehler  #8d6ebb9c
+    * [ ] Aberration  #22c59195
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;iv. Optische Verfahren</summary>
+
+    * [ ] Emissions- und Absorptionsspektroskopie  #6f60fb78
+    * [ ] Gitterspektrometer  #72b044f6
+    * [ ] Fabry-Perot-Interferometer  #aa7f9047
+    * [ ] Optische Filterung  #aeaf10da
+    * [ ] Hell- und Dunkelfeldabbildung  #b82e65a2
+    * [ ] Phasenkontrast  #04c125b1
+    * [ ] Frequenzkamm  #848e7f61
+  </details>
+</details>
+
+<details>
+  <summary>5. Teilchenphysik</summary>
+
+    * [ ] Fundamentalkräfte  #9553825c
+    * [ ] Elementarteilchen des Standardmodells  #020259cb
+    * [ ] Leptonen  #7613105c
+    * [ ] Quarks  #f53c0c23
+    * [ ] Confinement  #6b1e0bc1
+    * [ ] Eichbosonen  #ab2a71b2
+    * [ ] Higgs-Boson  #6c166717
+    * [ ] Hadronen  #e2d44049
+    * [ ] Large-Hadron-Collider LHC am CERN  #d3e1d0e9
+</details>
+
+<details>
+  <summary>6. Relativitätstheorie</summary>
+
+  <details>
+    <summary>&nbsp;&nbsp;i. Lichtgeschwindigkeit</summary>
+
+    * [ ] Messung  #ec5f0b95
+    * [ ] Michelson-Interferometer  #bc8fae64
+    * [ ] Michelson-Morley-Experiment  #4dc83d65
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;ii. Spezielle Relativitätstheorie</summary>
+
+    * [ ] Einsteinsches Postulate  #d4d451c8
+    * [ ] Lorentz-Transformation  #56668775
+    * [ ] Zeitdilatation  #84f7ed8e
+    * [ ] Längenkontraktion  #590951f9
+    * [ ] Myonen-Zerfall  #fc024d5f
+    * [ ] Doppler-Effekt  #e805dc99
+    * [ ] Zwillingsparadoxon  #decfffb8
+    * [ ] Geschwindigkeitstransformationen  #f83fee6f
+    * [ ] Relativistische Masse und Impuls  #6cc1c1e2
+    * [ ] Relativistische Energie  #c4d4166f
+    * [ ] Masse-Energie-Äquivalenz  #8b9cb75c
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;iii. Allgemeine Relativitätstheorie</summary>
+
+    * [ ] Äquivalenzprinzip  #444ef242
+    * [ ] Ablenkung von Licht im Gravitationspotential  #aef7326f
+    * [ ] Periheldrehung  #c63c1ddb
+    * [ ] Gravitative Zeitdilatation und Rotverschiebung  #26fe41a3
+    * [ ] Schwarze Löcher  #f0d856b1
+    * [ ] Gravitationswellen  #878165eb
+    * [ ] GPS  #fbf93a6f
+  </details>
+</details>
+
+<details>
+  <summary>7. Atom- und Quantenphysik</summary>
+
+  <details>
+    <summary>&nbsp;&nbsp;i. Von der Atomvorstellung zur Quantenphysik</summary>
+
+    * [ ] Historie  #30a82563
+    * [ ] Struktur der Atome  #cf957bd3
+    * [ ] Kathoden-und Kanalstrahlen  #cff67a0e
+    * [ ] Millikan-Versuch  #4a0f3df7
+    * [ ] Elektronenmasse  #dba3380e
+    * [ ] Fadenstrahlrohr  #48ef3728
+    * [ ] Wienfilter  #b0e01e33
+    * [ ] Absorption von Elektronenstrahlen  #492a9485
+    * [ ] Thomsonsche Atommodell  #6bd137c1
+    * [ ] Rutherforsche Atommodell  #966e23bf
+    * [ ] Integraler und differentieller Wirkungsquerschnitt  #99656b86
+    * [ ] Rutherforsche Streuformel  #4d26eba4
+    * [ ] Teilchencharakter el.magn. Strahlung  #4f64e786
+    * [ ] Hohlraumstrahlung  #f08d9b20
+    * [ ] Plancksche Strahlungsgesetz  #375b18ff
+    * [ ] Stefan-Boltzmann Gesetz  #716177b8
+    * [ ] Wiensches Verschiebungsgesetz  #67dfbec9
+    * [ ] Rayleigh-Jeanssches Gesetz  #6a234796
+    * [ ] Einstein-Koeffizienten für Absorption  #4b5456d3
+    * [ ] Spontane und induzierte Emission  #42ad5a87
+    * [ ] Fluoreszenz  #8952cb88
+    * [ ] Äußerer photoelektrischer Effekt  #3fe6195c
+    * [ ] Compton-Streuung  #f8dfda20
+    * [ ] Wellencharakter von Teilchen  #30ca04bf
+    * [ ] Welle-Teilchen Dualismus bei Licht  #f85a33e3
+    * [ ] Materiewellen  #e13362e5
+    * [ ] Abbildung und Beugung mit Elektronen  #2400f93b
+    * [ ] Wellenfunktion  #0c186f65
+    * [ ] Phasen- und Gruppengeschwindigkeit  #0a7cd5bd
+    * [ ] Wellenpakete  #be53164f
+    * [ ] Heisenbergsche Unschärferelation  #7cd8b5be
+    * [ ] Einstein-Podolsky-Rosen-Paradoxon  #b7bb148a
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;ii. Schrödinger-Gleichung</summary>
+
+    * [ ] Herleitung  #5e8af8d3
+    * [ ] Operatoren  #838710fb
+    * [ ] Freies Teilchen  #ba0fff99
+    * [ ] Potentialstufe  #7f0576ac
+    * [ ] Tunneleffekt  #9ea9db12
+    * [ ] Feldemission  #31c4c96d
+    * [ ] Teilchen im Potentialkasten  #5ebcee48
+    * [ ] harmonischer Oszillator  #29d865f4
+    * [ ] Postulate der Quantenmechanik  #97855211
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;iii. Quantenstruktur der Atome</summary>
+
+    * [ ] Atomspektren  #23f039ee
+    * [ ] Resonanzabsorption  #6a2e8ac3
+    * [ ] Rydberg-Ritz-Formel  #e271d52e
+    * [ ] Balmer-Serie  #95ea0350
+    * [ ] Bohrsches Atommodell  #01c2dc31
+    * [ ] Stehende Welle und Energiequantisierung  #c9bfd523
+    * [ ] Franck-Hertz Versuch  #3470e7f7
+
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;iv. Wasserstoff-ähnliche Atome</summary>
+
+    * [ ] Schrödinger-Gleichung in Kugelkoordinaten  #781fd9f2
+    * [ ] Quantenzahlen  #c3a7cfe3
+    * [ ] Termschema und Auswahlregeln  #50b34e92
+    * [ ] Entartung  #1f7a6618
+    * [ ] Lösung der Schrödinger-Gleichung für Wasserstoffatom  #d990dc4a
+    * [ ] Radiale Wahrscheinlichkeitsdichte  #2135a054
+    * [ ] Atomorbitale  #a0edf071
+    * [ ] Bahn- und Spin-Magnetismus  #7f4117a6
+    * [ ] Atomare magnetische Momente  #4aec045c
+    * [ ] Bohrsches Magneton  #0614dca1
+    * [ ] Landé-Faktor  #a4574145
+    * [ ] Gyromagnetisches Verhältnis  #dfb211ff
+    * [ ] Einstein-de Haas und Stern-Gerlach Experimente  #691fe6d0
+    * [ ] Normaler Zeeman-Effekt  #e522ae9b
+    * [ ] Spin-Bahn-Kopplung  #c25c0453
+    * [ ] Anormaler Zeeman-Effekt  #6441f97c
+    * [ ] Elektronenspinresonanz  #75c9b91c
+    * [ ] Paschen-Back Effekt  #fe268580
+    * [ ] Stark-Effekt  #99835fa1
+    * [ ] Feinstruktur nach Dirac  #ababb1c4
+    * [ ] Dirac-Notation  #8d2cbc3b
+    * [ ] Lamb-Verschiebung  #c365b2e7
+    * [ ] Hyperfeinstruktur  #00ed7b6c
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;v. Atome mit mehreren Elektronen</summary>
+
+    * [ ] Pauli-Prinzip  #c75dbd29
+    * [ ] Helium  #f11bc71a
+    * [ ] Singulett- und Triplett-Zustände  #4619f234
+    * [ ] Periodensystem  #f69430da
+    * [ ] Alkali-Atome  #80ece546
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;vi. Röntgenstrahlung</summary>
+
+    * [ ] Bremsstrahlung  #6743c7c7
+    * [ ] Charakteristische Röntgenstrahlung  #885c88ff
+    * [ ] Absorption und Streuung  #1d7a3085
+    * [ ] Moseley'sches Gesetz  #48131c6d
+    * [ ] Röntgenoptik  #5d452dba
+    * [ ] Raman-Streuung  #f1ada240
+    * [ ] Auger- und andere Effekte  #d1c5e093
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;vii. Laser</summary>
+
+    * [ ] Aufbau  #e93a27f8
+    * [ ] Besetzungszahlen und Einstein-Koeffizienten  #54d223e4
+    * [ ] Besetzungsinversion  #85d800ba
+    * [ ] Rückkopplung  #1a05e3bd
+    * [ ] HeNe-Laser  #7280ea11
+    * [ ] Relaxationsschwingung  #1a41ff3f
+    * [ ] Titan:Saphir-Laser  #1fc1fa9b
+    * [ ] Hohe Harmonische  #f827a1ae
+    * [ ] Attosekundenlaser  #ae63c6de
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;iix. Synchrotron und FEL</summary>
+
+    * [ ] Eigenschaften der Synchrotronstrahlung  #24b8534b
+    * [ ] Aufbau Synchrotron  #e377822f
+    * [ ] Wiggler und Undulatoren  #7195b8c6
+    * [ ] FELs (FLASH und XFEL)  #74f581e9
+  </details>
+</details>
+
+<details>
+  <summary>8. Kernphysik</summary>
+
+  <details>
+    <summary>&nbsp;&nbsp;i. Aufbau der Atomkerne</summary>
+
+    * [ ] Größe  #e7d0fca6
+    * [ ] Masse- und Ladungsverteilung  #b7a16eee
+    * [ ] Massenspektrograph  #3a756bb8
+    * [ ] Atomare Masseneinheit  #cc94cc9f
+    * [ ] Massendichte  #6866651e
+    * [ ] Formfaktor  #604c77d4
+    * [ ] Fermi-Verteilung  #cecb9a49
+    * [ ] Kernbausteine  #7df11a66
+    * [ ] Isotope  #204471f3
+    * [ ] Isobare  #c4a95bb0
+    * [ ] Kerngesamtdrehimpuls  #d5f5e88f
+    * [ ] Magnetisches Moment  #34ac3d43
+    * [ ] Kern-Landé-Faktor  #e9ec2b03
+    * [ ] Kernmagneton  #c02963c2
+    * [ ] Gyromagnetisches Verhältnis  #710e0e18
+    * [ ] Kernspinresonanz NMR  #1fe7c5a0
+    * [ ] Magnetresonanztomographie MRT  #c8cc4074
+    * [ ] Bindungsenergie der Kerne  #36518bd4
+    * [ ] Fermi-Gas Modell  #ced2a9ff
+    * [ ] Tröpfchenmodell  #56ce79c0
+    * [ ] Bethe- Weizsäcker Massenformel  #b840e5f3
+    * [ ] Stabilitätskriterien  #5af4a56c
+    * [ ] Mattauchsche Isobarenregel  #c601e098
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;ii. Radioaktivität</summary>
+
+    * [ ] Zerfallsgesetz  #6fac9fad
+    * [ ] Radiokohlenstoffdatierung  #64b5d9cf
+    * [ ] Alpha-Zerfall  #9e0214ed
+    * [ ] Gamov-Faktor  #9dbe1011
+    * [ ] Geiger-Nuttall Regel  #0c33cfae
+    * [ ] Beta-Zerfall  #1053af7a
+    * [ ] Neutrino-Hypothese  #585590cd
+    * [ ] Paritätsverletzung  #d8d870dc
+    * [ ] Neutrinooszillationen  #0d1557c1
+    * [ ] Gammastrahlung  #93d2f100
+    * [ ] Mößbauer-Effekt  #321a98b7
+    * [ ] Dosisgrößen  #c42145a4
+  </details>
+
+  <details>
+    <summary>&nbsp;&nbsp;iii. Kernreaktionen</summary>
+
+    * [ ] Spontane und induzierte Kernspaltung  #9b6b92f3
+    * [ ] Kernreaktoren  #9d7059fa
+    * [ ] Kernfusion  #c102a26c
+    * [ ] Proton-Proton-Reaktion  #3b87f9bf
+    * [ ] Bethe-Weizsäcker-Zyklus  #aaef25a9
+    * [ ] Kernfusionsreaktor (NIF, JET und ITER)  #237e3ddc
+  </details>
+</details>
+
+* Zu bearbeitendes Deck
+
+Incorporates some parts from shared decks provided on AnkiWeb.
+
+## How to use the deck
+1. Clone this repository
+1. Get Anki for desktop (Linux, Windows, macOS)
+1. Install the CrowdAnki Plugin:
+    1. Open Anki
+    1. Click Tools, Add-ons, Browse & Install...
+    1. Enter plugin id 1788670778
+    1. Restart Anki
+1. Click File, CrowdAnki: import from Disk
+    1. Select the folder of the deck that you'd like to import
+1. Optional: create an Anki account to sync your decks, this allows you to
+    1. Learn on your phone/tablet
+    1. Learn using the web interface
+
+## Why Anki?
+http://augmentingcognition.com/ltm.html
+
+
+
+## How to help out
+
+Fork this repository, and send me a pull request.
+
+You can edit the JSON directly (useful for minor fixes) or use Anki itself to make changes and create new cards.
+
+In order to use this deck and to contribute back - please use the CrowdAnki plugin: [Stvad](https://github.com/Stvad/CrowdAnki)
+
+## Conventions
+
+- Formulas are written in LaTex
+- Try to keep questions and answers concise
+- Don't hotlink images, add them locally instead
+
+You're welcome to use and improve this deck!

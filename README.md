@@ -1,10 +1,11 @@
 # Physik Anki deck. (CrowdAnki JSON)
-
 It contains all the ideas and concepts I learn during my physics studies as Anki cards. The cards are all in German.
+I try to keep the cards general so that others can do something with them.
+Probably it will help you more if you take the topics and write your own cards.
 
 ## Topics
 The deck is not yet complete and will be revised several times.
-The complete subdecks have a marker ([x]) in the listing.
+The complete subdecks have a marker ([X]) in the listing.
 The Anki structure is built up as follows:
 
 <details>
@@ -23,99 +24,100 @@ The Anki structure is built up as follows:
   <details>
     <summary>&nbsp;&nbsp;i. Translation</summary>
 
-    * [x] Translation
-    * [x] Masse
-    * [x] Ort
-    * [x] Geschwindigkeit
-    * [x] Beschleunigung
-    * [x] Freier Fall
-    * [x] Erdbeschleunigung
-    * [x] Kraft
-    * [x] Äquivalenzprinzip
-    * [x] Bewegungsgleichung
-    * [x] Superpositionsprinzip
-    * [x] Impuls
-    * [x] Impulserhaltung
-    * [x] Inertialsysteme
-    * [x] Kraftstoß
-    * [x] Newtonsche Axiome
-    * [x] Kinetische Energie
-    * [x] Potentielle Energie
-    * [x] Energieerhaltung
-    * [x] Energiewandlung
-    * [x] Arbeit
-    * [x] Goldene Regel der Mechanik
-    * [x] Leistung
-    * [x] Haftreibung
-    * [x] Gleitreibung
-    * [x] Gleichgewicht
+    * [X] Translation
+    * [X] Masse
+    * [X] Ort
+    * [X] Geschwindigkeit
+    * [X] Beschleunigung
+    * [X] Freier Fall
+    * [X] Erdbeschleunigung
+    * [X] Kraft
+    * [X] Äquivalenzprinzip
+    * [X] Bewegungsgleichung
+    * [ ] Superpositionsprinzip
+    * [X] Impuls
+    * [X] Impulserhaltung
+    * [X] Inertialsysteme
+    * [X] Kraftstoß
+    * [X] Newtonsche Axiome
+    * [X] Kinetische Energie
+    * [X] Potentielle Energie
+    * [X] Energieerhaltung
+    * [X] Energiewandlung
+    * [X] Arbeit
+    * [X] Goldene Regel der Mechanik
+    * [X] Leistung
+    * [X] Haftreibung
+    * [X] Gleitreibung
+    * [X] Gleichgewicht
   </details>
 
   <details>
     <summary>&nbsp;&nbsp;ii. Rotation</summary>
 
-    * [x] Winkelgeschwindigkeit
-    * [x] Winkelbeschleunigung
-    * [x] Gleichmäßig beschleunigte Drehbewegung
-    * [x] Drehmoment
-    * [x] Vektorprodukt
-    * [x] Rotationsenergie
-    * [x] Trägheitsmoment
-    * [x] Schwerpunkt
-    * [x] Steinerscher Satz
-    * [x] Drehimpuls
-    * [x] Drehimpulserhaltung
-    * [x] Zentripetal- und Zentrifugalkraft
-    * [x] Scheinkräfte
-    * [x] Corioliskraft
-    * [x] Foucaultpendel
-    * [x] Kreisel
-    * [x] Präzession
-    * [x] Nutation
-    * [x] Trägheitstensor
-    * [x] Stabile und labile Drehachsen
+    * [X] Winkelgeschwindigkeit
+    * [X] Winkelbeschleunigung
+    * [X] Gleichmäßig beschleunigte Drehbewegung
+    * [X] Drehmoment
+    * [X] Vektorprodukt
+    * [X] Rotationsenergie
+    * [X] Trägheitsmoment
+    * [X] Schwerpunkt
+    * [X] Steinerscher Satz
+    * [X] Drehimpuls
+    * [X] Drehimpulserhaltung
+    * [X] Zentripetal- und Zentrifugalkraft
+    * [X] Scheinkräfte
+    * [X] Corioliskraft
+    * [X] Foucaultpendel
+    * [X] Kreisel
+    * [X] Präzession
+    * [X] Nutation
+    * [X] Trägheitstensor
+    * [X] Stabile und labile Drehachsen
   </details>
 
   <details>
     <summary>&nbsp;&nbsp;iii. Gravitation</summary>
 
-    * [x] Gravitationsgesetz
-    * [x] Konservatives Kraftfeld
-    * [x] Gradient
-    * [x] Gezeiten
-    * [x] Fluchtgeschwindigkeit
-    * [x] Planetenbewegung
-    * [x] Bewegung um Schwerpunkt
-    * [x] Keplersche Gesetze
+    * [X] Gravitationsgesetz
+    * [X] Konservatives Kraftfeld
+    * [X] Gradient
+    * [X] Gezeiten
+    * [X] Fluchtgeschwindigkeit
+    * [X] Planetenbewegung
+    * [X] Bewegung um Schwerpunkt
+    * [X] Keplersche Gesetze
   </details>
 
   <details>
     <summary>&nbsp;&nbsp;iv. Schwingungen und Wellen</summary>
 
-    * [x] Federpendel
-    * [x] Fadenpendel
-    * [x] Harmonischer Oszillator
-    * [x] Lösung der Bewegungsgleichung
-    * [x] Gekoppelte Schwingungen
-    * [x] Schwebungen
-    * [x] Gedämpfte Schwingungen
-    * [x] Schwingfall
-    * [x] Aperiodischer Grenzfall
-    * [x] Kriechfall
-    * [x] Erzwungene Schwingungen
-    * [x] Resonanz
-    * [x] Beschreibung mit komplexen Zahlen
-    * [x] Fourierzerlegung periodischer und aperiodischer Funktionen
-    * [x] Wellen
-    * [x] Phasengeschwindigkeit
-    * [x] Wellengleichung
-    * [x] Polarisation
-    * [x] Interferenz
-    * [x] Reflexion
-    * [x] stehende Wellen
-    * [x] Interferenz am Doppelspalt
-    * [x] Dopplereffekt
-    * [x] Machkegel
+    * [X] Federpendel
+    * [X] Fadenpendel
+    * [X] Harmonischer Oszillator
+    * [X] Lösung der Bewegungsgleichung
+    * [X] Gekoppelte Schwingungen
+    * [X] Schwebungen
+    * [X] Gedämpfte Schwingungen
+    * [X] Schwingfall
+    * [X] Aperiodischer Grenzfall
+    * [X] Kriechfall
+    * [X] Erzwungene Schwingungen
+    * [X] Resonanz
+    * [X] Beschreibung mit komplexen Zahlen
+    * [X] Fourierzerlegung periodischer und aperiodischer Funktionen
+    * [X] Wellen
+    * [X] Phasengeschwindigkeit
+    * [X] Wellengleichung
+    * [X] Polarisation
+    * [X] Interferenz
+    * [X] Reflexion
+    * [X] stehende Wellen
+    * [X] Interferenz am Doppelspalt
+    * [X] Dopplereffekt
+    * [X] Machkegel
+    * [ ] Moden
   </details>
 
   <details>
@@ -131,7 +133,7 @@ The Anki structure is built up as follows:
     * [ ] Verbiegung von Balken
     * [ ] Hydrostatik
     * [ ] Druck
-    * [ ] hydrostatischer Druck
+    * [ ] Hydrostatischer Druck
     * [ ] Auftrieb
     * [ ] Stabilität beim Schwimmen
     * [ ] Oberflächen- und Grenzflächenspannung
@@ -152,13 +154,14 @@ The Anki structure is built up as follows:
     * [ ] Kavitation
     * [ ] Messung der Strömungsgeschwindigkeit
     * [ ] Tragflächenprofil
-    * [ ] laminare und turbulente Strömung
+    * [ ] Laminare und turbulente Strömung
     * [ ] Reynoldszahl
     * [ ] Strömungswiderstand
     * [ ] Newtonreibung
     * [ ] Widerstandsbeiwert
     * [ ] Rotation
     * [ ] Stokesscher Satz
+    * [ ] Magnus-Effekt
   </details>
 </details>
 
@@ -172,12 +175,12 @@ The Anki structure is built up as follows:
     * [ ] Wärmeausdehnung
     * [ ] Kelvinskala
     * [ ] Gleichung des idealen Gases
-    * [ ] kinetische Gastheorie
+    * [ ] Kinetische Gastheorie
     * [ ] Innere Energie
     * [ ] Wärmemenge
-    * [ ] erster Hauptsatz
-    * [ ] spezifische Wärme
-    * [ ] atomistische Deutung
+    * [ ] Erster Hauptsatz
+    * [ ] Spezifische Wärme
+    * [ ] Atomistische Deutung
     * [ ] Freiheitsgrade
     * [ ] Gleichverteilungssatz
     * [ ] Abweichungen bei tiefen Temperaturen
@@ -203,9 +206,10 @@ The Anki structure is built up as follows:
     * [ ] Tripelpunkt
     * [ ] Dampfdruck
     * [ ] Luftfeuchtigkeit
-    * [ ] reale Gase
+    * [ ] Reale Gase
     * [ ] Joule-Thomson-Effekt
-    * [ ] van-der-Waals-Gleichung
+    * [ ] Van-der-Waals-Gleichung
+    * [ ] Van-der-Waals-Kräfte
   </details>
 
   <details>
@@ -218,12 +222,12 @@ The Anki structure is built up as follows:
     * [ ] Adiabate
     * [ ] Carnotprozess
     * [ ] Wirkungsgrad
-    * [ ] reversible und irreversible Prozesse
+    * [ ] Reversible und irreversible Prozesse
     * [ ] Stirlingprozess
     * [ ] Stirlingmotor und -wärmepumpe
-    * [ ] zweiter Hauptsatz
+    * [ ] Zweiter Hauptsatz
     * [ ] Entropie
-    * [ ] thermodynamische und statistische Definition
+    * [ ] Thermodynamische und statistische Definition
     * [ ] Entropieänderung bei Temperaturausgleich
     * [ ] Mischung und Kreisprozessen
   </details>
@@ -250,118 +254,121 @@ The Anki structure is built up as follows:
   <details>
     <summary>&nbsp;&nbsp;i. Elektrostatik</summary>
 
-    * [x] Ladung
-    * [x] Coulombkraft
-    * [x] Elektrisches Feld
-    * [x] Feldlinien
-    * [x] Monopol
-    * [x] Dipol
-    * [x] Potential
-    * [x] Spannung
-    * [x] Äquipotentialflächen
-    * [x] Metalle
-    * [x] Faradaybecher
-    * [x] Elektrischer Fluss
-    * [x] Kondensator
-    * [x] Kapazität
-    * [x] Ladung
-    * [x] Energie eines Kondensators
-    * [x] Energiedichte des Elektrischen Felds
-    * [x] Reihen- und Parallelschaltung
-    * [x] Elementarladung
-    * [x] Millikanversuch
-    * [x] Influenz
-    * [x] Dielektrika
-    * [x] Verschiebungs- und Orientierungspolarisation
-    * [x] Polarisierung
-    * [x] Dipol
-    * [x] Situation an Grenzflächen
-    * [x] Piezoeffekt
+    * [X] Ladung
+    * [X] Coulombkraft
+    * [X] Elektrisches Feld
+    * [X] Feldlinien
+    * [X] Monopol
+    * [X] Dipol
+    * [X] Potential
+    * [X] Spannung
+    * [X] Äquipotentialflächen
+    * [X] Metalle
+    * [X] Faradaybecher
+    * [X] Elektrischer Fluss
+    * [X] Kondensator
+    * [X] Kapazität
+    * [X] Ladung
+    * [X] Energie eines Kondensators
+    * [X] Energiedichte des Elektrischen Felds
+    * [X] Reihen- und Parallelschaltung
+    * [X] Elementarladung
+    * [X] Millikanversuch
+    * [ ] Einfeldmethode
+    * [ ] Zweifeldmethode
+    * [X] Influenz
+    * [X] Dielektrika
+    * [X] Verschiebungs- und Orientierungspolarisation
+    * [X] Polarisierung
+    * [X] Dipol
+    * [X] Situation an Grenzflächen
+    * [X] Piezoeffekt
+    * [ ] Paul-Falle
   </details>
 
   <details>
     <summary>&nbsp;&nbsp;ii. Gleichströme </summary>
 
-    * [x] Strom
-    * [x] elektrischer Widerstand
-    * [x] Ohmsches Gesetz
-    * [x] spezifischer Widerstand
-    * [x] elektrische Leistung
-    * [x] Kirchhoffsche Gesetze
-    * [x] Reihen- und Parallelschaltung
-    * [x] Strom- und Spannungsmessung
-    * [x] Potentiometer
-    * [x] Brückenschaltung
-    * [x] Entladung eines Kondensators
-    * [x] mikroskopische Betrachtung der Leitung
-    * [x] Leitfähigkeit in Lösungen
-    * [x] Elektrolyse
-    * [x] Brennstoffzelle
+    * [X] Strom
+    * [X] Elektrischer Widerstand
+    * [X] Ohmsches Gesetz
+    * [X] Spezifischer Widerstand
+    * [X] Elektrische Leistung
+    * [X] Kirchhoffsche Gesetze
+    * [X] Reihen- und Parallelschaltung
+    * [X] Strom- und Spannungsmessung
+    * [X] Potentiometer
+    * [X] Brückenschaltung
+    * [X] Entladung eines Kondensators
+    * [X] Mikroskopische Betrachtung der Leitung
+    * [X] Leitfähigkeit in Lösungen
+    * [X] Elektrolyse
+    * [X] Brennstoffzelle
   </details>
 
   <details>
     <summary>&nbsp;&nbsp;iii. Magnetismus</summary>
 
-    * [x] Magnetfeld
-    * [x] Permanentmagnet
-    * [x] stromdurchflossene Leiter
-    * [x] Lorentzkraft
-    * [x] Drehspulinstrument
-    * [x] parallele Leiter
-    * [x] Biot-Savart-Gesetz
-    * [x] kreisförmiger Leiter
-    * [x] Halleffekt
-    * [x] Fadenstrahlrohr
-    * [x] magnetischer Fluss
-    * [x] Quellenfreiheit
-    * [x] Monopole
-    * [x] Induktion bei bewegtem Leiter und veränderlichem Magnetfeld
-    * [x] Dynamo
-    * [x] Wirbelströme
-    * [x] Lenzsche Regel
-    * [x] Selbstinduktion
-    * [x] Induktivität
-    * [x] Spule
-    * [x] Reihen- und Parallelschaltung
-    * [x] Energie der Spule
-    * [ ] Energiedichte des Magnetfelds
-    * [ ] magnetisches Moment
-    * [ ] Drehmoment
-    * [ ] Energie und Kraft auf Dipol
-    * [ ] Materie im Magnetfeld
-    * [ ] Magnetisierung
-    * [ ] Permeabilität
-    * [ ] Suszeptibilität
-    * [ ] Diamagnetismus
-    * [ ] Supraleitung
-    * [ ] Paramagnetismus
+    * [X] Magnetfeld
+    * [X] Permanentmagnet
+    * [X] stromdurchflossene Leiter
+    * [X] Lorentzkraft
+    * [X] Drehspulinstrument
+    * [X] Parallele Leiter
+    * [X] Biot-Savart-Gesetz
+    * [X] Kreisförmiger Leiter
+    * [X] Halleffekt
+    * [X] Fadenstrahlrohr
+    * [X] Magnetischer Fluss
+    * [X] Quellenfreiheit
+    * [X] Monopole
+    * [X] Induktion bei bewegtem Leiter und veränderlichem Magnetfeld
+    * [X] Dynamo
+    * [X] Wirbelströme
+    * [X] Lenzsche Regel
+    * [X] Selbstinduktion
+    * [X] Induktivität
+    * [X] Spule
+    * [X] Reihen- und Parallelschaltung
+    * [X] Energie der Spule
+    * [X] Energiedichte des Magnetfelds
+    * [X] Magnetisches Moment
+    * [X] Drehmoment
+    * [X] Energie und Kraft auf Dipol
+    * [ ] Elektromotor
+    * [X] Magnetisierung
+    * [X] Permeabilität
+    * [X] Suszeptibilität
+    * [X] Magnetismus von Festkörpern
+    * [X] Diamagnetismus
+    * [X] Paramagnetismus
     * [ ] Ferromagnetismus
-    * [ ] magnetische Domänen
+    * [ ] Supraleitung
+    * [ ] Magnetische Domänen
     * [ ] Hysterese
+    * [ ] Magnetooptischer Kerr-Effekt
   </details>
 
   <details>
     <summary>&nbsp;&nbsp;iv. Wechselstrom und Oszilliskop</summary>
 
-    * [x] Wechselspannung
-    * [x] Braunsche Röhre
-    * [x] Oszilloskop
-    * [x] Triggern
-    * [x] Funktionsgenerator
-    * [x] Effektivwert
-    * [x] Transformator
-    * [ ] Trenntransformator
-    * [ ] kapazitiver und induktiver Widerstand
-    * [ ] komplexe Widerstände
-    * [ ] Tiefpass
-    * [ ] Grenzfrequenz
-    * [ ] Bodediagramm
-    * [ ] Zeitkonstante
-    * [ ] Hochpass
-    * [ ] Schwingkreis
-    * [ ] Dämpfung
-    * [ ] Resonanz
-    * [ ] Parallel- und Reihenschwingkreis
+    * [X] Wechselspannung
+    * [X] Braunsche Röhre
+    * [X] Oszilloskop
+    * [X] Triggern
+    * [X] Funktionsgenerator
+    * [X] Effektivwert
+    * [X] Transformator
+    * [X] Trenntransformator
+    * [X] Tiefpass
+    * [X] Hochpass
+    * [X] Bandpass
+    * [X] Bandsperre
+    * [X] Grenzfrequenz
+    * [X] Bodediagramm
+    * [X] Zeitkonstante
+    * [X] Schwingkreis
+    * [X] Parallel- und Reihenschwingkreis
   </details>
 
   <details>
@@ -379,7 +386,9 @@ The Anki structure is built up as follows:
     * [ ] Gleichrichterschaltungen
     * [ ] Glättung
     * [ ] Transistor
+    * [ ] Operationsverstärker
     * [ ] Verstärker
+    * [ ] Analogmultiplizierer
   </details>
 
   <details>
@@ -388,15 +397,15 @@ The Anki structure is built up as follows:
     * [ ] Maxwellsche Gesetze
     * [ ] Verschiebungsstrom
     * [ ] Wellengleichung
-    * [ ] elektromagnetische Wellen
+    * [ ] Elektromagnetische Wellen
     * [ ] Polarisation und Phase
     * [ ] Dipolantenne
     * [ ] Dipolcharakteristik
     * [ ] Poyntingvektor
-    * [ ] stehende Wellen
+    * [ ] Stehende Wellen
     * [ ] Drahtwellen
     * [ ] Koaxialleiter
-    * [ ] optimale Antennenlänge
+    * [ ] Optimale Antennenlänge
     * [ ] Rundfunkempfang
     * [ ] Amplitudenmodulation
   </details>
@@ -408,7 +417,7 @@ The Anki structure is built up as follows:
     <summary>&nbsp;&nbsp;i. Beugung und Interferenz</summary>
 
     * [ ] Wellengleichung
-    * [ ] ebene Wellen und Kugelwellen
+    * [ ] Ebene Wellen und Kugelwellen
     * [ ] Beugung
     * [ ] Huygenssches Prinzip
     * [ ] Interferenz
@@ -416,7 +425,7 @@ The Anki structure is built up as follows:
     * [ ] Doppelspalt
     * [ ] Einfachspalt
     * [ ] Lochblende
-    * [ ] unendliches und endliches Gitter
+    * [ ] Unendliches und endliches Gitter
     * [ ] Kohärenz
     * [ ] Michelson-Interferometer
     * [ ] Unschärferelation
@@ -431,11 +440,11 @@ The Anki structure is built up as follows:
     * [ ] Brechung
     * [ ] Brechungsgesetz
     * [ ] Prisma
-    * [ ] partielle Reflexion
+    * [ ] Partielle Reflexion
     * [ ] Totalreflexion
     * [ ] Lichtleiter
     * [ ] Wellenvektor an Grenzflächen
-    * [ ] frustrierte Totalreflexion
+    * [ ] Frustrierte Totalreflexion
     * [ ] Polarisation
     * [ ] Polarisatoren
     * [ ] Brewsterwinkel
@@ -444,9 +453,11 @@ The Anki structure is built up as follows:
     * [ ] Dispersion
     * [ ] Absorption
     * [ ] Polarisationsformen
-    * [ ] optische Aktivität
+    * [ ] Optische Aktivität
     * [ ] Doppelbrechung
     * [ ] Faradayeffekt
+    * [ ] Polarisationsmodulator
+    * [ ] Verzögerungsplatte
   </details>
 
   <details>
@@ -458,7 +469,7 @@ The Anki structure is built up as follows:
     * [ ] Hohl- und Wölbspiegel
     * [ ] Auge
     * [ ] Fehlsichtigkeit
-    * [ ] reelles und virtuelles Bild
+    * [ ] Reelles und virtuelles Bild
     * [ ] Lupe
     * [ ] Mikroskop
     * [ ] Kepler- und Galileifernrohr
@@ -473,9 +484,10 @@ The Anki structure is built up as follows:
     * [ ] Emissions- und Absorptionsspektroskopie
     * [ ] Gitterspektrometer
     * [ ] Fabry-Perot-Interferometer
-    * [ ] optische Filterung
+    * [ ] Optische Filterung
     * [ ] Hell- und Dunkelfeldabbildung
     * [ ] Phasenkontrast
+    * [ ] Frequenzkamm
   </details>
 </details>
 
@@ -515,8 +527,8 @@ The Anki structure is built up as follows:
     * [ ] Doppler-Effekt
     * [ ] Zwillingsparadoxon
     * [ ] Geschwindigkeitstransformationen
-    * [ ] relativistische Masse und Impuls
-    * [ ] relativistische Energie
+    * [ ] Relativistische Masse und Impuls
+    * [ ] Relativistische Energie
     * [ ] Masse-Energie-Äquivalenz
   </details>
 
@@ -526,7 +538,7 @@ The Anki structure is built up as follows:
     * [ ] Äquivalenzprinzip
     * [ ] Ablenkung von Licht im Gravitationspotential
     * [ ] Periheldrehung
-    * [ ] gravitative Zeitdilatation und Rotverschiebung
+    * [ ] Gravitative Zeitdilatation und Rotverschiebung
     * [ ] Schwarze Löcher
     * [ ] Gravitationswellen
     * [ ] GPS
@@ -541,25 +553,26 @@ The Anki structure is built up as follows:
 
     * [ ] Historie
     * [ ] Struktur der Atome
-    * [ ] Kathoden- und Kanalstrahlen
-    * [ ] MillikanVersuch
+    * [ ] Kathoden-und Kanalstrahlen
+    * [ ] Millikan-Versuch
     * [ ] Elektronenmasse
     * [ ] Fadenstrahlrohr
     * [ ] Wienfilter
     * [ ] Absorption von Elektronenstrahlen
     * [ ] Thomsonsche Atommodell
     * [ ] Rutherforsche Atommodell
-    * [ ] integraler und differentieller Wirkungsquerschnitt
+    * [ ] Integraler und differentieller Wirkungsquerschnitt
     * [ ] Rutherforsche Streuformel
     * [ ] Teilchencharakter el.magn. Strahlung
     * [ ] Hohlraumstrahlung
-    * [ ] Plancksche Strahlungsformel
+    * [ ] Plancksche Strahlungsgesetz
     * [ ] Stefan-Boltzmann Gesetz
     * [ ] Wiensches Verschiebungsgesetz
     * [ ] Rayleigh-Jeanssches Gesetz
     * [ ] Einstein-Koeffizienten für Absorption
-    * [ ] spontane und induzierte Emission
-    * [ ] äußerer photoelektrischer Effekt
+    * [ ] Spontane und induzierte Emission
+    * [ ] Fluoreszenz
+    * [ ] Äußerer photoelektrischer Effekt
     * [ ] Compton-Streuung
     * [ ] Wellencharakter von Teilchen
     * [ ] Welle-Teilchen Dualismus bei Licht
@@ -569,6 +582,7 @@ The Anki structure is built up as follows:
     * [ ] Phasen- und Gruppengeschwindigkeit
     * [ ] Wellenpakete
     * [ ] Heisenbergsche Unschärferelation
+    * [ ] Einstein-Podolsky-Rosen-Paradoxon
   </details>
 
   <details>
@@ -576,7 +590,7 @@ The Anki structure is built up as follows:
 
     * [ ] Herleitung
     * [ ] Operatoren
-    * [ ] freies Teilchen
+    * [ ] Freies Teilchen
     * [ ] Potentialstufe
     * [ ] Tunneleffekt
     * [ ] Feldemission
@@ -593,7 +607,7 @@ The Anki structure is built up as follows:
     * [ ] Rydberg-Ritz-Formel
     * [ ] Balmer-Serie
     * [ ] Bohrsches Atommodell
-    * [ ] stehende Welle und Energiequantisierung
+    * [ ] Stehende Welle und Energiequantisierung
     * [ ] Franck-Hertz Versuch
 
   </details>
@@ -606,21 +620,22 @@ The Anki structure is built up as follows:
     * [ ] Termschema und Auswahlregeln
     * [ ] Entartung
     * [ ] Lösung der Schrödinger-Gleichung für Wasserstoffatom
-    * [ ] radiale Wahrscheinlichkeitsdichte
+    * [ ] Radiale Wahrscheinlichkeitsdichte
     * [ ] Atomorbitale
     * [ ] Bahn- und Spin-Magnetismus
-    * [ ] atomare magnetische Momente
+    * [ ] Atomare magnetische Momente
     * [ ] Bohrsches Magneton
     * [ ] Landé-Faktor
-    * [ ] gyromagnetisches Verhältnis
+    * [ ] Gyromagnetisches Verhältnis
     * [ ] Einstein-de Haas und Stern-Gerlach Experimente
-    * [ ] normaler Zeeman-Effekt
+    * [ ] Normaler Zeeman-Effekt
     * [ ] Spin-Bahn-Kopplung
-    * [ ] anormaler Zeeman-Effekt
+    * [ ] Anormaler Zeeman-Effekt
     * [ ] Elektronenspinresonanz
     * [ ] Paschen-Back Effekt
     * [ ] Stark-Effekt
     * [ ] Feinstruktur nach Dirac
+    * [ ] Dirac-Notation
     * [ ] Lamb-Verschiebung
     * [ ] Hyperfeinstruktur
   </details>
@@ -639,7 +654,7 @@ The Anki structure is built up as follows:
     <summary>&nbsp;&nbsp;vi. Röntgenstrahlung</summary>
 
     * [ ] Bremsstrahlung
-    * [ ] charakteristische Röntgenstrahlung
+    * [ ] Charakteristische Röntgenstrahlung
     * [ ] Absorption und Streuung
     * [ ] Moseley'sches Gesetz
     * [ ] Röntgenoptik
@@ -655,6 +670,10 @@ The Anki structure is built up as follows:
     * [ ] Besetzungsinversion
     * [ ] Rückkopplung
     * [ ] HeNe-Laser
+    * [ ] Relaxationsschwingung
+    * [ ] Titan:Saphir-Laser
+    * [ ] Hohe Harmonische
+    * [ ] Attosekundenlaser
   </details>
 
   <details>
@@ -676,7 +695,7 @@ The Anki structure is built up as follows:
     * [ ] Größe
     * [ ] Masse- und Ladungsverteilung
     * [ ] Massenspektrograph
-    * [ ] atomare Masseneinheit
+    * [ ] Atomare Masseneinheit
     * [ ] Massendichte
     * [ ] Formfaktor
     * [ ] Fermi-Verteilung
@@ -684,10 +703,10 @@ The Anki structure is built up as follows:
     * [ ] Isotope
     * [ ] Isobare
     * [ ] Kerngesamtdrehimpuls
-    * [ ] magnetisches Moment
+    * [ ] Magnetisches Moment
     * [ ] Kern-Landé-Faktor
     * [ ] Kernmagneton
-    * [ ] gyromagnetisches Verhältnis
+    * [ ] Gyromagnetisches Verhältnis
     * [ ] Kernspinresonanz NMR
     * [ ] Magnetresonanztomographie MRT
     * [ ] Bindungsenergie der Kerne
@@ -744,6 +763,10 @@ Incorporates some parts from shared decks provided on AnkiWeb.
 1. Optional: create an Anki account to sync your decks, this allows you to
     1. Learn on your phone/tablet
     1. Learn using the web interface
+
+## Why Anki?
+http://augmentingcognition.com/ltm.html
+
 
 
 ## How to help out
