@@ -1,0 +1,29 @@
+* Translation
+  :PROPERTIES:
+  :ANKI_DECK: Physik::1. Klassische Mechanik::Translation
+  :END:
+
+** Vocabulary
+*** Item
+    :PROPERTIES:
+    :ANKI_NOTE_TYPE: Basic with source
+    :ANKI_NOTE_ID: 1534596461813
+    :END:
+**** Front
+     Die Physik ist ein großes Thema.
+**** Back
+     it's raining very hard
+**** Source
+     Test
+** Grammar
+
+*** Item
+    :PROPERTIES:
+    :ANKI_NOTE_TYPE: Basic with source
+    :ANKI_NOTE_ID: 1534596462209
+    :END:
+**** Front
+     说出名词从句的形式
+**** Back
+     1) that + 一个完整的句子, that无实际意义
+     2) 由疑问句改装而成

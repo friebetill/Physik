@@ -1,0 +1,702 @@
+* Physik Anki deck (CrowdAnki JSON)
+It contains all the ideas and concepts I learn during my physics studies as Anki cards.
+I use the Spaced-Repetition learning technique because I realized from my first studies that I have forgotten a lot of my knowledge from my studies.
+I choose Anki because it is:
+- Open Source with a large community
+- Scriptable in python
+- Available on all platforms
+- Other reasons, see [[http://augmentingcognition.com/ltm.html][this]]
+
+Another important fact: All cards are in German, because German is my native language.
+
+** Topics
+The deck is not yet complete and will be revised several times.
+The complete subdecks have a marker ([X]) in the listing.
+
+The Anki structure is built up as follows:
+
+1) Klassische Mechanik [0%]
+   1. [-] Dynamik
+      1. [-] Kinematik
+         - [ ] Ort
+         - [ ] Bezugssystem
+         - [X] Geschwindigkeit
+         - [X] Beschleunigung
+         - [X] Erdbeschleunigung
+         - [X] Freier Fall
+         - [X] Bewegungsgleichung
+         - [X] Massenmittelpunkt
+         - [ ] [[file:Translation.org][Translation]]
+         - [X] Rotation
+           - [X] Winkelgeschwindigkeit
+           - [X] Winkelbeschleunigung
+      2. [-] Kinetik
+         - [X] Masse
+         - [X] Äquivalenzprinzip
+         - [X] Kraft
+         - [X] Inertialsysteme
+         - [ ] Superpositionsprinzip
+         - [X] Impuls
+         - [X] Impulserhaltung
+         - [X] Kraftstoß
+         - [X] Newtonsche Gesetze
+         - [ ] Isaac Newton
+         - [X] Arbeit
+         - [X] Goldene Regel der Mechanik
+         - [X] Energie
+           - [X] Kinetische Energie
+           - [X] Potentielle Energie
+           - [X] Energieerhaltung
+           - [X] Energiewandlung
+         - [X] Leistung
+         - [X] Haftreibung
+         - [X] Gleitreibung
+         - [X] Gleichgewicht
+         - [ ] Lagrange-Formalismus
+         - [X] Rotation
+           - [X] Drehmoment
+           - [X] Steinerscher Satz
+           - [X] Rotationsenergie
+           - [X] Trägheitsmoment
+           - [X] Drehimpuls
+           - [X] Drehimpulserhaltung
+           - [X] Zentripetal- und Zentrifugalkraft
+           - [X] Corioliskraft
+           - [X] Foucaultpendel
+           - [X] Kreisel
+           - [X] Präzession
+           - [X] Nutation
+           - [X] Trägheitstensor
+           - [X] Stabile und labile Drehachsen
+         - [-] Gravitation
+           - [X] Gravitationsgesetz
+           - [X] Konservatives Kraftfeld
+           - [X] Gradient
+           - [X] Gezeiten
+           - [ ] Gravitationswaage
+           - [X] Fluchtgeschwindigkeit
+           - [X] Planetenbewegung
+           - [X] Bewegung um Schwerpunkt
+      3. [ ] Nichtlineare Dynamik
+         - [ ] Chaostheorie
+   2. [-] Schwingungen und Wellen
+      - [X] Federpendel
+      - [X] Fadenpendel
+      - [X] Harmonischer Oszillator
+      - [X] Lösung der Bewegungsgleichung
+      - [X] Gekoppelte Schwingungen
+      - [X] Schwebungen
+      - [X] Gedämpfte Schwingungen
+      - [X] Schwingfall
+      - [X] Aperiodischer Grenzfall
+      - [X] Kriechfall
+      - [X] Erzwungene Schwingungen
+      - [X] Resonanz
+      - [X] Beschreibung mit komplexen Zahlen
+      - [X] Fourierzerlegung periodischer und aperiodischer Funktionen
+      - [X] Wellen
+      - [X] Phasengeschwindigkeit
+      - [X] Wellengleichung
+      - [X] Polarisation
+      - [X] Interferenz
+      - [X] Reflexion
+      - [X] stehende Wellen
+      - [X] Interferenz am Doppelspalt
+      - [X] Dopplereffekt
+      - [X] Machkegel
+      - [ ] Moden
+   3. [ ] Hamiltonsche Mechanik
+   4. [ ] Akustik
+   5. [ ] Kontinuumsmechanik
+      1. Mechanik fester Körper
+         - [ ] Elastizität
+         - [ ] Hookesches Gesetz
+         - [ ] Elastizitätsmodul
+         - [ ] Poissonzahl
+         - [ ] Scherung
+         - [ ] Schermodul
+         - [ ] Torsion
+         - [ ] Verbiegung von Balken
+      2. Fluidstatik
+         - [ ] Hydrostatik
+         - [ ] Druck
+         - [ ] Hydrostatischer Druck
+         - [ ] Auftrieb
+         - [ ] Stabilität beim Schwimmen
+         - [ ] Oberflächen- und Grenzflächenspannung
+         - [ ] Druck in Ballons
+         - [ ] Oberflächenkraft
+         - [ ] Meniskus
+         - [ ] Kapillarkräfte
+         - [ ] Strömungen
+         - [ ] Strömungsfeld
+         - [ ] Fluss
+         - [ ] Stromdichte
+         - [ ] Kontinuitätsgleichung
+         - [ ] Divergenz
+         - [ ] Gaußscher Satz
+         - [ ] Viskosität
+         - [ ] Rohrströmung
+         - [ ] Bernoullische Gleichung
+         - [ ] Kavitation
+         - [ ] Messung der Strömungsgeschwindigkeit
+         - [ ] Tragflächenprofil
+         - [ ] Laminare und turbulente Strömung
+         - [ ] Reynoldszahl
+         - [ ] Strömungswiderstand
+         - [ ] Newtonreibung
+         - [ ] Widerstandsbeiwert
+         - [ ] Rotation
+         - [ ] Stokesscher Satz
+         - [ ] Magnus-Effekt
+      3. Kinetische Gastheorie
+2) Elektromagnetismus [0%]
+   1. [-] Elektrostatik
+      - [X] Elektrische Ladung
+      - [ ] Thales von Milet
+      - [X] Elektrisches Feld
+      - [X] Coulombsches Gesetz
+      - [X] Feldlinien
+      - [X] Monopol
+      - [X] Dipol
+      - [X] Elektrisches Potential
+      - [X] Spannung
+      - [X] Äquipotentialflächen
+      - [ ] Kontaktelektrizität
+      - [ ] Elektrostatische Entladung
+      - [X] Metalle
+      - [X] Faradaybecher
+      - [X] Elektrischer Fluss
+      - [ ] Elektrische Energie
+      - [X] Kondensator
+      - [X] Kapazität
+      - [ ] Gaußsches Gesetz
+      - [X] Ladung
+      - [X] Energie eines Kondensators
+      - [X] Energiedichte des Elektrischen Felds
+      - [X] Reihen- und Parallelschaltung
+      - [X] Elementarladung
+      - [X] Millikanversuch
+      - [ ] Einfeldmethode
+      - [ ] Zweifeldmethode
+      - [X] Influenz
+      - [X] Dielektrika
+      - [X] Verschiebungs- und Orientierungspolarisation
+      - [X] Polarisation
+      - [X] Dipol
+      - [ ] Elektrisches Dipolmoment
+      - [X] Situation an Grenzflächen
+      - [X] Piezoeffekt
+      - [ ] Paul-Falle
+   2. [-] Magnetostatik
+      - [ ] Ampèresches Gesetz
+      - [X] Magnetfeld
+      - [X] Permanentmagnet
+      - [X] Stromdurchflossene Leiter
+      - [X] Drehspulinstrument
+      - [X] Parallele Leiter
+      - [X] Biot-Savart-Gesetz
+      - [X] Kreisförmiger Leiter
+      - [X] Fadenstrahlrohr
+      - [X] Magnetischer Fluss
+      - [X] Quellenfreiheit
+      - [X] Monopole
+      - [X] Induktion bei bewegtem Leiter und veränderlichem Magnetfeld
+      - [X] Dynamo
+      - [X] Wirbelströme
+      - [X] Selbstinduktion
+      - [X] Induktivität
+      - [X] Spule
+      - [X] Reihen- und Parallelschaltung
+      - [X] Energie der Spule
+      - [X] Energiedichte des Magnetfelds
+      - [X] Magnetisches Moment
+      - [X] Drehmoment
+      - [X] Energie und Kraft auf Dipol
+      - [ ] Gaußsches Gesetz für Magnetismus
+      - [ ] Magnetischer Dipol
+      - [ ] Magnetischer Dipolmoment
+      - [ ] Elektromotor
+      - [X] Magnetisierung
+      - [X] Permeabilität
+      - [X] Suszeptibilität
+      - [X] Magnetismus von Festkörpern
+      - [X] Diamagnetismus
+      - [X] Paramagnetismus
+      - [ ] Ferromagnetismus
+      - [ ] Magnetische Domänen
+      - [ ] Hysterese
+      - [ ] Magnetooptischer Kerr-Effekt
+   3. [-] Elektrodynamik
+      - [X] Lorentzkraft
+      - [ ] Elektromagnetische Induktion
+      - [X] Lenzsche Regel
+      - [X] Halleffekt
+      -
+      - Elektromagnetische Wellen
+        - [ ] Maxwellsche Gesetze
+        - [ ] Verschiebungsstrom
+        - [ ] Wellengleichung
+        - [ ] Elektromagnetische Wellen
+        - [ ] Polarisation und Phase
+        - [ ] Dipolantenne
+        - [ ] Dipolcharakteristik
+        - [ ] Poyntingvektor
+        - [ ] Stehende Wellen
+        - [ ] Drahtwellen
+        - [ ] Koaxialleiter
+        - [ ] Optimale Antennenlänge
+        - [ ] Rundfunkempfang
+        - [ ] Amplitudenmodulation
+   4. [-] Elektrische Netzwerke
+      - [X] Strom
+      - [X] Wechselspannung
+      - [X] Ohmsches Gesetz
+      - [ ] Elektrischer Leiter
+      - [X] Elektrischer Widerstand
+      - [ ] Isolator
+      - [X] Spezifischer Widerstand
+      - [X] Elektrische Leistung
+      - [X] Kirchhoffsche Gesetze
+      - [X] Reihen- und Parallelschaltung
+      - [X] Strom- und Spannungsmessung
+      - [X] Potentiometer
+      - [X] Brückenschaltung
+      - [X] Entladung eines Kondensators
+      - [X] Mikroskopische Betrachtung der Leitung
+      - [X] Leitfähigkeit in Lösungen
+      - [X] Elektrolyse
+      - [X] Brennstoffzelle
+      - [ ] Supraleitung
+      - Elektronische Bauelemente
+        - [ ] Diode
+        - [ ] Diodenkennlinie
+        - [ ] Zenerdiode
+        - [ ] Halbleiter
+        - [ ] Energiebänder
+        - [ ] Dotierung
+        - [ ] Photodetektor
+        - [ ] Photovoltaik
+        - [ ] Leuchtdiode
+        - [ ] Gleichrichterschaltungen
+        - [ ] Glättung
+        - [ ] Transistor
+        - [ ] Operationsverstärker
+        - [ ] Verstärker
+        - [ ] Analogmultiplizierer
+      - Wechselstrom und Oszilliskop
+        - [X] Braunsche Röhre
+        - [X] Oszilloskop
+        - [X] Funktionsgenerator
+        - [X] Effektivwert
+        - [X] Transformator
+        - [X] Trenntransformator
+        - [X] Tiefpass
+        - [X] Hochpass
+        - [X] Bandpass
+        - [X] Bandsperre
+        - [X] Grenzfrequenz
+        - [X] Bodediagramm
+        - [X] Zeitkonstante
+        - [X] Schwingkreis
+        - [X] Parallel- und Reihenschwingkreis
+   5. [ ] Optik
+      1. [ ] Beugung und Interferenz
+         - [ ] Wellengleichung
+         - [ ] Ebene Wellen und Kugelwellen
+         - [ ] Beugung
+         - [ ] Huygenssches Prinzip
+         - [ ] Interferenz
+         - [ ] Zeigerdiagramme
+         - [ ] Doppelspalt
+         - [ ] Einfachspalt
+         - [ ] Lochblende
+         - [ ] Unendliches und endliches Gitter
+         - [ ] Kohärenz
+         - [ ] Michelson-Interferometer
+         - [ ] Unschärferelation
+         - [ ] Fresnellinsen
+         - [ ] Holographie
+         - [ ] Licht
+           - [ ] Sichtbares Licht
+      2. [ ] Reflexion, Brechung, Polarisation
+         - [ ] Reflexion
+         - [ ] Brechung
+         - [ ] Brechungsgesetz
+         - [ ] Prisma
+         - [ ] Partielle Reflexion
+         - [ ] Totalreflexion
+         - [ ] Lichtleiter
+         - [ ] Wellenvektor an Grenzflächen
+         - [ ] Frustrierte Totalreflexion
+         - [ ] Polarisation
+         - [ ] Polarisatoren
+         - [ ] Brewsterwinkel
+         - [ ] Intensitäten bei Reflexion und Brechung
+         - [ ] Schichtinterferenzen
+         - [ ] Dispersion
+         - [ ] Absorption
+         - [ ] Polarisationsformen
+         - [ ] Optische Aktivität
+         - [ ] Doppelbrechung
+         - [ ] Faradayeffekt
+         - [ ] Polarisationsmodulator
+         - [ ] Verzögerungsplatte
+      3. [ ] Abbildung
+         - [ ] Sammel- und Zerstreuungslinsen
+         - [ ] Abbildungsgleichung
+         - [ ] Kombination von Linsen
+         - [ ] Hohl- und Wölbspiegel
+         - [ ] Auge
+         - [ ] Fehlsichtigkeit
+         - [ ] Reelles und virtuelles Bild
+         - [ ] Lupe
+         - [ ] Mikroskop
+         - [ ] Kepler- und Galileifernrohr
+         - [ ] Auflösungsvermögen
+         - [ ] Linsenfehler
+         - [ ] Aberration
+      4. [ ] Optische Verfahren
+         - [ ] Emissions- und Absorptionsspektroskopie
+         - [ ] Gitterspektrometer
+         - [ ] Fabry-Perot-Interferometer
+         - [ ] Optische Filterung
+         - [ ] Hell- und Dunkelfeldabbildung
+         - [ ] Phasenkontrast
+         - [ ] Frequenzkamm
+      5. [ ] Laser
+         - [ ] Aufbau
+         - [ ] Besetzungszahlen und Einstein-Koeffizienten
+         - [ ] Besetzungsinversion
+         - [ ] Rückkopplung
+         - [ ] HeNe-Laser
+         - [ ] Relaxationsschwingung
+         - [ ] Titan:Saphir-Laser
+         - [ ] Hohe Harmonische
+         - [ ] Attosekundenlaser
+3) Thermodynamik [0%]
+   1. [ ] Temperatur und Wärme
+      - [ ] Temperatur
+      - [ ] Wärmeausdehnung
+      - [ ] Isotope
+      - [ ] Isobare
+      - [ ] Kelvinskala
+      - [ ] William Thomson, 1. Baron Kelvin
+      - [ ] Anders Celsius
+      - [ ] Gleichung des idealen Gases
+      - [ ] Kinetische Gastheorie
+      - [ ] Innere Energie
+      - [ ] Wärmemenge
+      - [ ] Erster Hauptsatz
+      - [ ] Julius Robert Mayer
+      - [ ] Spezifische Wärme
+      - [ ] Atomistische Deutung
+      - [ ] Freiheitsgrade
+      - [ ] Gleichverteilungssatz
+      - [ ] Abweichungen bei tiefen Temperaturen
+      - [ ] Wärmeübertragungsmechanismen
+      - [ ] Wärmeleitung
+      - [ ] Wärmestrom
+      - [ ] Wärmeleitfähigkeit
+      - [ ] Wärmeleitungsgleichung
+      - [ ] Laplace-Operator
+      - [ ] Konvektion
+      - [ ] Wärmestrahlung
+      - [ ] Dewar
+   2. [ ] Aggregatzustände
+      - [ ] Schmelzwärme
+      - [ ] Verdampfungswärme
+      - [ ] Volumenänderung
+      - [ ] Phasendiagramme
+      - [ ] kritischer Punkt
+      - [ ] Tripelpunkt
+      - [ ] Dampfdruck
+      - [ ] Denis Papin
+      - [ ] Luftfeuchtigkeit
+      - [ ] Reale Gase
+      - [ ] Joule-Thomson-Effekt
+      - [ ] Van-der-Waals-Gleichung
+      - [ ] Van-der-Waals-Kräfte
+   3. [ ] Kreisprozesse und Entropie
+      - [ ] Zustandsänderungen des idealen Gases
+      - [ ] Robert Boyle
+      - [ ] Isotherme
+      - [ ] Isochore
+      - [ ] Isobare
+      - [ ] Adiabate
+      - [ ] Carnotprozess
+      - [ ] Wirkungsgrad
+      - [ ] Reversible und irreversible Prozesse
+      - [ ] Stirlingprozess
+      - [ ] Stirlingmotor und -wärmepumpe
+      - [ ] Zweiter Hauptsatz
+      - [ ] Nicolas Carnot
+      - [ ] Entropie
+      - [ ] Thermodynamische und statistische Definition
+      - [ ] Entropieänderung bei Temperaturausgleich
+      - [ ] Mischung und Kreisprozessen
+   4. [ ] Technische Verfahren
+      - [ ] Erzeugung tiefer Temperaturen
+      - [ ] Gasverflüssigung
+      - [ ] Kühlschrank
+      - [ ] Trockeneisherstellung
+      - [ ] Vakuumerzeugung
+      - [ ] Drehschieberpumpe
+      - [ ] Turbomolekularpumpe
+      - [ ] Druckmessung
+      - [ ] Piraniröhre
+      - [ ] Kristallzucht aus der Schmelze und aus der Gasphase
+      - [ ] Epitaxie
+4) Quantenphysik [0%]
+   1. [-] Atomphysik
+      1. [-] Atommodelle
+         - [ ] Demokrit
+         - [ ] Dalton-Modell
+         - [ ] John Dalton
+         - [X] Thomsonsche Atommodell
+         - [X] Rutherfordsches Atommodell
+         - [X] Rutherford Streuexperiment
+         - [ ] Rutherforsche Streuformel
+         - [ ] Balmer-Serie
+         - [X] Bohrsche Atommodell
+         - [X] Orbitalmodell
+           - Hauptquantenzahl
+           - Nebenquantenzahl
+           - Magnetische Nebenquantenzahl
+           - Spinquantenzahl
+         - [ ] Wellenfunktion
+         - [ ] Atomorbital
+      2. [ ] Elektronenhülle
+         - [ ] Elektron
+         - [ ] Elektronenstrahl
+         - [ ] Millikan-Versuch
+         - [ ] Elektronenmasse
+         - [ ] Fadenstrahlrohr
+         - [ ] Wienfilter
+         - [ ] Absorption von Elektronenstrahlen
+         - [ ] Integraler und differentieller Wirkungsquerschnitt
+         - [ ] Teilchencharakter el.magn. Strahlung
+         - [ ] Hohlraumstrahlung
+         - [ ] Plancksche Strahlungsgesetz
+         - [ ] Stefan-Boltzmann Gesetz
+         - [ ] Wiensches Verschiebungsgesetz
+         - [ ] Rayleigh-Jeanssches Gesetz
+         - [ ] Einstein-Koeffizienten für Absorption
+         - [ ] Spontane und induzierte Emission
+         - [ ] Fluoreszenz
+         - [ ] Äußerer photoelektrischer Effekt
+         - [ ] Compton-Streuung
+         - [ ] Wellencharakter von Teilchen
+         - [ ] Welle-Teilchen Dualismus bei Licht
+         - [ ] Materiewellen
+         - [ ] Abbildung und Beugung mit Elektronen
+         - [ ] Wellenfunktion
+         - [ ] Phasen- und Gruppengeschwindigkeit
+         - [ ] Wellenpakete
+         - [ ] Heisenbergsche Unschärferelation
+         - [ ] Einstein-Podolsky-Rosen-Paradoxon
+         - [ ] Hamiltonoperator
+         - [ ] William Rowan Hamilton
+         - [ ] Quantenzahl
+         - [ ] Entartung (Quantenmechanik)
+         - [ ] Pauling-Schreibweise
+         - [ ] Hundsche Regel
+         - [ ] Regel des Energieminimums
+         - [ ] Rumpfelektronen
+         - [ ] Valenzelektronen
+         - [ ] Ionisiserungsenergie
+         - [ ] Elektronenaffinität
+         - [ ] Elektronegativität
+         - [ ] Atomgewicht
+         - [ ] Atomradius
+      3. [ ] Schrödinger-Gleichung
+         - [ ] Erwin Schrödinger
+         - [ ] Herleitung
+         - [ ] Operatoren
+         - [ ] Freies Teilchen
+         - [ ] Potentialstufe
+         - [ ] Tunneleffekt
+         - [ ] Feldemission
+         - [ ] Teilchen im Potentialkasten
+         - [ ] Harmonischer Oszillator
+         - [ ] Postulate der Quantenmechanik
+   2. [ ] Kernphysik
+      1. [ ] Aufbau der Atomkerne
+         - [ ] Größe
+         - [ ] Masse- und Ladungsverteilung
+         - [ ] Massenspektrograph
+         - [ ] Atomare Masseneinheit
+         - [ ] Massendichte
+         - [ ] Formfaktor
+         - [ ] Fermi-Verteilung
+         - [ ] Kernbausteine
+         - [ ] Kerngesamtdrehimpuls
+         - [ ] Magnetisches Moment
+         - [ ] Kern-Landé-Faktor
+         - [ ] Kernmagneton
+         - [ ] Gyromagnetisches Verhältnis
+         - [ ] Kernspinresonanz NMR
+         - [ ] Magnetresonanztomographie MRT
+         - [ ] Bindungsenergie der Kerne
+         - [ ] Fermi-Gas Modell
+         - [ ] Tröpfchenmodell
+         - [ ] Bethe- Weizsäcker Massenformel
+         - [ ] Stabilitätskriterien
+         - [ ] Mattauchsche Isobarenregel
+      2. [ ] Radioaktivität
+         - [ ] Zerfallsgesetz
+         - [ ] Radiokohlenstoffdatierung
+         - [ ] Alpha-Zerfall
+         - [ ] Gamov-Faktor
+         - [ ] Geiger-Nuttall Regel
+         - [ ] Beta-Zerfall
+         - [ ] Neutrino-Hypothese
+         - [ ] Paritätsverletzung
+         - [ ] Neutrinooszillationen
+         - [ ] Gammastrahlung
+         - [ ] Mößbauer-Effekt
+         - [ ] Dosisgrößen
+      3. [ ] Kernreaktionen
+         - [ ] Spontane und induzierte Kernspaltung
+         - [ ] Kernreaktoren
+         - [ ] Kernfusion
+         - [ ] Proton-Proton-Reaktion
+         - [ ] Bethe-Weizsäcker-Zyklus
+         - [ ] Kernfusionsreaktor (NIF, JET und ITER)
+   3. [ ] Teilchenphysik
+      - [ ] Fundamentalkräfte
+      - [ ] Elementarteilchen des Standardmodells
+      - [ ] Leptonen
+      - [ ] Quarks
+      - [ ] Confinement
+      - [ ] Eichbosonen
+      - [ ] Higgs-Boson
+      - [ ] Hadronen
+      - [ ] Large-Hadron-Collider LHC am CERN
+   4. [ ] Quantenstruktur der Atome
+      - [ ] Atomspektren
+      - [ ] Resonanzabsorption
+      - [ ] Rydberg-Ritz-Formel
+      - [ ] Stehende Welle und Energiequantisierung
+      - [ ] Franck-Hertz Versuch
+   5. [ ] Wasserstoff-ähnliche Atome
+      - [ ] Schrödinger-Gleichung in Kugelkoordinaten
+      - [ ] Quantenzahlen
+      - [ ] Termschema und Auswahlregeln
+      - [ ] Entartung
+      - [ ] Lösung der Schrödinger-Gleichung für Wasserstoffatom
+      - [ ] Radiale Wahrscheinlichkeitsdichte
+      - [ ] Bahn- und Spin-Magnetismus
+      - [ ] Atomare magnetische Momente
+      - [ ] Bohrsches Magneton
+      - [ ] Landé-Faktor
+      - [ ] Gyromagnetisches Verhältnis
+      - [ ] Einstein-de Haas und Stern-Gerlach Experimente
+      - [ ] Normaler Zeeman-Effekt
+      - [ ] Spin-Bahn-Kopplung
+      - [ ] Anormaler Zeeman-Effekt
+      - [ ] Elektronenspinresonanz
+      - [ ] Paschen-Back Effekt
+      - [ ] Stark-Effekt
+      - [ ] Feinstruktur nach Dirac
+      - [ ] Dirac-Notation
+      - [ ] Lamb-Verschiebung
+      - [ ] Hyperfeinstruktur
+   6. [ ] Atome mit mehreren Elektronen
+      - [ ] Pauli-Prinzip
+      - [ ] Helium
+      - [ ] Singulett- und Triplett-Zustände
+      - [ ] Periodensystem
+      - [ ] Alkali-Atome
+   7. [ ] Röntgenstrahlung
+      - [ ] Bremsstrahlung
+      - [ ] Charakteristische Röntgenstrahlung
+      - [ ] Absorption und Streuung
+      - [ ] Moseley'sches Gesetz
+      - [ ] Röntgenoptik
+      - [ ] Raman-Streuung
+      - [ ] Auger- und andere Effekte
+   8. [ ] Synchrotron und FEL
+      - [ ] Eigenschaften der Synchrotronstrahlung
+      - [ ] Aufbau Synchrotron
+      - [ ] Wiggler und Undulatoren
+      - [ ] FELs (FLASH und XFEL)
+5) Relativitätstheorie [0%]
+   1. [ ] Lichtgeschwindigkeit
+      - [ ] Messung
+      - [ ] Michelson-Interferometer
+      - [ ] Michelson-Morley-Experiment
+   2. [ ] Spezielle Relativitätstheorie
+      - [ ] Einsteinsches Postulate
+      - [ ] Lorentz-Transformation
+      - [ ] Zeitdilatation
+      - [ ] Längenkontraktion
+      - [ ] Myonen-Zerfall
+      - [ ] Doppler-Effekt
+      - [ ] Zwillingsparadoxon
+      - [ ] Geschwindigkeitstransformationen
+      - [ ] Relativistische Masse und Impuls
+      - [ ] Relativistische Energie
+      - [ ] Masse-Energie-Äquivalenz
+   3. [ ] Allgemeine Relativitätstheorie
+      - [ ] Äquivalenzprinzip
+      - [ ] Ablenkung von Licht im Gravitationspotential
+      - [ ] Periheldrehung
+      - [ ] Gravitative Zeitdilatation und Rotverschiebung
+      - [ ] Schwarze Löcher
+      - [ ] Gravitationswellen
+      - [ ] GPS
+6) Astronomie [16%]
+   - [ ] Tycho Brahe
+   - [ ] Galileo Galilei
+   - [X] Keplersche Gesetze
+   - [ ] Astrophysik
+   - [ ] Dunkle Materie
+   - [ ] Inflationäre Modell
+   - [ ] Kosmologie
+     - [ ] Urknall
+     - [ ] Urknalltheorie
+     - [ ] Wasserstoffbrennen
+     - [ ] Supernova
+     - [ ] Kosmischer Materiekreislauf
+   - [ ] Sonnensystem
+
+Incorporates some parts from shared decks provided on AnkiWeb.
+
+** How to use the deck
+1) Clone this repository
+2) Get Anki for desktop (Linux, Windows, macOS)
+3) Install the CrowdAnki Plugin:
+   1. Open Anki
+   2. Click Tools, Add-ons, Browse & Install...
+   3. Enter plugin id 1788670778
+   4. Restart Anki
+4) Click File, CrowdAnki: Import from Disk
+   1. Select the folder of the deck that you'd like to import
+5) Optional: Create an Anki account to sync your decks, this allows you to
+   1. Learn on your phone/tablet
+   2. Learn using the web interface
+
+** How to help out
+Fork this repository, and send me a pull request.
+You can edit the JSON directly (useful for minor fixes) or use Anki itself to make changes and create new cards.
+In order to use this deck and to contribute back - please use the CrowdAnki plugin: [Stvad](https://github.com/Stvad/CrowdAnki)
+
+** Conventions
+- I'm trying to follow the [[https://www.supermemo.com/en/articles/20rules][20 rules for spaced repetition]].
+- Every knowledge information has a source
+- Try to keep questions and answers concise
+- Formulas are written in LaTex
+- Don't hotlink images, add them locally instead
+You're welcome to use and improve this deck!
+
+** Literatur
+** Offene Fragen:
+- Isentrope Zustandsänderung
+- Was ist ein Dimer?
+- Wie funktioniert eine Klimaanlage
+- Warum wird bei Wechselstrom weniger Leistung beim transport verbraucht?
+- Was ist mit der Akkustik?
+- Wie passt die Metrologie und Fehlerrechnung dazu?
+- Eigenes Thema oder Unterkapital von Physik oder Mathe?
+- Was ist die Galileo-Transformation
