@@ -39,6 +39,7 @@ The Anki structure is built up as follows:
          - [X] Impuls
          - [X] Impulserhaltung
          - [X] Kraftstoß
+         - [ ] Ballistisches Pendel
          - [X] Newtonsche Gesetze
          - [ ] Isaac Newton
          - [X] Arbeit
@@ -125,17 +126,22 @@ The Anki structure is built up as follows:
          - [ ] Stabilität beim Schwimmen
          - [ ] Oberflächen- und Grenzflächenspannung
          - [ ] Druck in Ballons
+         - [ ] Barometer
+         - [ ] Barometrische Höhenformel
          - [ ] Oberflächenkraft
          - [ ] Meniskus
          - [ ] Kapillarkräfte
          - [ ] Strömungen
          - [ ] Strömungsfeld
+         - [ ] Anemometer
+           - [ ] Windplatte
          - [ ] Fluss
          - [ ] Stromdichte
          - [ ] Kontinuitätsgleichung
          - [ ] Divergenz
          - [ ] Gaußscher Satz
          - [ ] Viskosität
+         - [ ] Viskosimeter
          - [ ] Rohrströmung
          - [ ] Bernoullische Gleichung
          - [ ] Kavitation
@@ -232,7 +238,6 @@ The Anki structure is built up as follows:
       - [ ] Elektromagnetische Induktion
       - [X] Lenzsche Regel
       - [X] Halleffekt
-      -
       - Elektromagnetische Wellen
         - [ ] Maxwellsche Gesetze
         - [ ] Verschiebungsstrom
@@ -254,6 +259,7 @@ The Anki structure is built up as follows:
       - [X] Ohmsches Gesetz
       - [ ] Elektrischer Leiter
       - [X] Elektrischer Widerstand
+      - [ ] Vier-Punkt-Methode
       - [ ] Isolator
       - [X] Spezifischer Widerstand
       - [X] Elektrische Leistung
@@ -459,6 +465,7 @@ The Anki structure is built up as follows:
          - [ ] Rutherforsche Streuformel
          - [ ] Balmer-Serie
          - [X] Bohrsche Atommodell
+         - [ ] Relaxation
          - [X] Orbitalmodell
            - Hauptquantenzahl
            - Nebenquantenzahl
@@ -529,6 +536,7 @@ The Anki structure is built up as follows:
          - [ ] Massendichte
          - [ ] Formfaktor
          - [ ] Fermi-Verteilung
+         - [ ] Fermi-Energie
          - [ ] Kernbausteine
          - [ ] Kerngesamtdrehimpuls
          - [ ] Magnetisches Moment
@@ -699,4 +707,7 @@ You're welcome to use and improve this deck!
 - Was ist mit der Akkustik?
 - Wie passt die Metrologie und Fehlerrechnung dazu?
 - Eigenes Thema oder Unterkapital von Physik oder Mathe?
+- Lichtspektren erweitern, in dem gefragt wird, welcher Nachbar diese Farbe hat
 - Was ist die Galileo-Transformation
+- Was ist eine Hilfsmaßeinheit?
+- Was ist die Tscherenkow-Strahlung?

@@ -458,6 +458,7 @@ The Anki structure is built up as follows:
     * [ ] Faradayeffekt
     * [ ] Polarisationsmodulator
     * [ ] Verzögerungsplatte
+    * [ ] Queteletsche Ringe
   </details>
 
   <details>
