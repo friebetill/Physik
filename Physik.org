@@ -7,6 +7,9 @@ I choose Anki because it is:
 - Available on all platforms
 - Other reasons, see [[http://augmentingcognition.com/ltm.html][this]]
 
+Wenn du es nicht einfach erklären kannst, verstehst du es auch nicht. -> Wichtig bei den einfachen Dingen anzufangen.
+The first principle is that you must not fool yourself — and you are the easiest person to fool.”
+
 Another important fact: All cards are in German, because German is my native language.
 
 ** Topics
